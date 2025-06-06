@@ -1,4 +1,4 @@
-I'm Dan 👋 — a product-minded technologist with a love for automation, self-hosting, and clean infrastructure.
+### I'm Dan 👋 — a product-minded technologist with a love for automation, self-hosting, and clean infrastructure.
 
 📚 Studying Business [@HWR Berlin](https://www.hwr-berlin.de)  
 🔧 Currently building with Podman, Git, and Home Assistant  
