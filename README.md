@@ -4,7 +4,6 @@
 🔧 Currently building with Podman, Git, and Home Assistant  
 ⚙️ Automating life one YAML file at a time  
 📦 Running a containerized homelab on RHEL  
-🧪 Frequently breaking things with ideas nobody asked for  
 🚌 Used to troubleshoot [@Apple](https://support.apple.com), learned to code [@Le Wagon](https://www.lewagon.com)
 
 ---
