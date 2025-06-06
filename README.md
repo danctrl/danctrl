@@ -5,7 +5,7 @@
 ⚙️ Automating life one YAML file at a time  
 📦 Running a containerized homelab on RHEL  
 🧪 Frequently breaking things with ideas nobody asked for  
-🍏 Used to troubleshoot at *Apple*, learned to code [@Le Wagon](https://www.lewagon.com)
+🍏 Used to troubleshoot @Apple, learned to code [@Le Wagon](https://www.lewagon.com)
 
 ---
 
